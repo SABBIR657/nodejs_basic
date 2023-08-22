@@ -1,5 +1,5 @@
 const fs = require('fs');
-const { result } = require('./student');
+const { result } = require('../exportImport/student');
 
 //console.log(fs);
 
